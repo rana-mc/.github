@@ -7,7 +7,7 @@
  
 **Q: Free?**
 
-**A:** Yep, opnesource and can be on your machine.
+**A:** Yep, opensource and can be on your machine.
 
 **Q: Stage of project?**
 
