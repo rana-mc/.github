@@ -35,3 +35,7 @@
 **Q: "Permissions denied"?**
 
 **A:** Well, you can check [this](https://stackoverflow.com/questions/51923277/npm-install-permission-denied-error-using-root-user). If you use nvm, do not forget about different path to global node_modules.
+
+**Q: Why rana-mc/rana-mc repo is not actual?**
+
+**A:** That was bad idea, [probably](https://alexey-soshin.medium.com/monorepo-is-a-bad-idea-5e587e848a07).
