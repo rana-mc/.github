@@ -29,6 +29,10 @@
 3. And now exec `ranamc-api start & ranamc-web start &` for starting RanaMC
 4. Super! Go to http://localhost:3000/
 
+**Q: Installed. Whats next?**
+
+**A:** You should get API key [here](https://console.curseforge.com/?#/api-keys) and paste it on CurseForge page in RanaMC.
+
 **Q: "Permissions denied"?**
 
 **A:** Well, you can check [this](https://stackoverflow.com/questions/51923277/npm-install-permission-denied-error-using-root-user). If you use nvm, do not forget about different path to global node_modules.
